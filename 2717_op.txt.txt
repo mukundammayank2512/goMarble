@@ -1,0 +1,47 @@
+{
+    "reviews": [
+        {
+            "body": " Iron does sharpen iron I'm a very active senior citizen! I do a lot of very physical volunteer work and I also lift and workout consistently! I heard about 27:17 on Jocko's podcast and tried it. My shoulders and knees had been bothering me. After using 27:17 my knees are much better and my shoulder pain is rare! Anytime I have a minor injury I turn to 27:17 for prompt relief! ",
+            "rating": 5,
+            "reviewer": " Chip F   ",
+            "title": "Iron does sharpen iron"
+        },
+        {
+            "body": " Daily Driver At this point in my life this recovery cream is a daily use cream. I lather this stuff all over every day after I step out of the shower, its my daily moisturizer. I am retired military of 21 years of service and I have put my body though a lot, this cream allows me to continue to do the tings I love. The cream is not a fix all but it really tries to be. I learned about h the cream through Jocko's podcast. I recommend this cream to everyone I cross paths with. The cream speaks for itself it works, maybe its a placebo but I don't care, plan and simple this shit works! Thank you Matt ",
+            "rating": 5,
+            "reviewer": " Matt Oconer   ",
+            "title": "Daily Driver"
+        },
+        {
+            "body": "A new bottle of recovery will be sent on your schedule. No obligation, modify or cancel your subscription anytime.Learn more...Powered by",
+            "rating": "N/A",
+            "reviewer": "N/A",
+            "title": "Relief & Recovery Cream"
+        },
+        {
+            "body": " ",
+            "rating": "N/A",
+            "reviewer": "N/A",
+            "title": "N/A"
+        },
+        {
+            "body": "At this point in my life this recovery cream is a daily use cream. I lather this stuff all over every day after I step out of the shower, its my daily moisturizer. I am retired military of 21 years of service and I have put my body though a lot, this cream allows me to continue to do the tings I love. The cream is not a fix all but it really tries to be. I learned about h the cream through Jocko's podcast. I recommend this cream to everyone I cross paths with. The cream speaks for itself it works, maybe its a placebo but I don't care, plan and simple this shit works! Thank you Matt",
+            "rating": "N/A",
+            "reviewer": "N/A",
+            "title": "Daily Driver"
+        },
+        {
+            "body": "Hard to review a product that hasn’t shipped yet. It has been 10 days, I expected to have it also… that’s not the case.",
+            "rating": "N/A",
+            "reviewer": "N/A",
+            "title": "Hasn’t shipped"
+        },
+        {
+            "body": " Hasn’t shipped Hard to review a product that hasn’t shipped yet. It has been 10 days, I expected to have it also… that’s not the case. ",
+            "rating": 5,
+            "reviewer": " Michael D   ",
+            "title": "Hasn’t shipped"
+        }
+    ],
+    "reviews_count": 7
+}

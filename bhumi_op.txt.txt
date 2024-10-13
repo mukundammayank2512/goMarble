@@ -1,0 +1,137 @@
+{
+    "reviews": [
+        {
+            "body": " We can guarantee 100% certified organic products that do not harm the earth or Her people in any way. Using GOTS certified fairtrade cotton, we can promise zero toxic pesticides or dyes are used at any stage of our Seed to Shelf journey. ",
+            "rating": "N/A",
+            "reviewer": "N/A",
+            "title": "\nWHY CHOOSE BHUMI?\n\n\n\n"
+        },
+        {
+            "body": "Hello Shirley, thank you for your positive feedback on our flannelette sheets. We are delighted to hear that you found them warm and soft. We look forward to serving you again in the future.",
+            "rating": "N/A",
+            "reviewer": "N/A",
+            "title": "Store Owner"
+        },
+        {
+            "body": " With GOTS Certified organic cotton, Fairtrade certified working conditions and carbon offset transportation, Bhumi is a global leader in sustainable, ethical textiles. ",
+            "rating": "N/A",
+            "reviewer": "N/A",
+            "title": "\n            ENVIRONMENTALLY FRIENDLY MATERIALS\n          "
+        },
+        {
+            "body": " You'll see the product catalogue specific to your country and be able to shop in the local currency. ",
+            "rating": 8,
+            "reviewer": "N/A",
+            "title": "THERE MIGHT BE A BETTER STORE FOR YOU"
+        },
+        {
+            "body": "All ratings5 star rating4 star rating3 star rating2 star rating1 star rating",
+            "rating": 10,
+            "reviewer": "N/A",
+            "title": "Best flannelette sheets around. Warm"
+        },
+        {
+            "body": "Love our new flannelette sheets. So warm, cosy and generous in fit. Much appreciated with a quite cold Sydney winter over the last few weeks.read more about content Love our new flannelette sheets.",
+            "rating": 11,
+            "reviewer": "N/A",
+            "title": "Love our new flannelette sheets."
+        },
+        {
+            "body": "In our mission to cut out plastic and avoid textile waste going to landfill, this product comes in a reusable bag made of matching organic fabric offcuts.",
+            "rating": "N/A",
+            "reviewer": "N/A",
+            "title": "N/A"
+        },
+        {
+            "body": "So soft and perfect fit. The perfect winter sheet set. Beautiful colours too.read more about content So soft and perfect fit. The perfect",
+            "rating": 11,
+            "reviewer": "N/A",
+            "title": "Check flannelette sheet set"
+        },
+        {
+            "body": " HOW BHUMI PRODUCTS ARE MADE We are committed to providing contemporary designs with the best possible cotton fabric available anywhere in the world. So, we only ever use 100% certified organic cotton. Not only does organic cotton have a low environmental impact, but also it is also soft, gentle and durable than standard cotton making it a natural choice for all our products. LEARN MORE ",
+            "rating": "N/A",
+            "reviewer": "N/A",
+            "title": "N/A"
+        },
+        {
+            "body": "Best flannelette sheets around. Warm and softread more about content Best flannelette sheets around.",
+            "rating": 11,
+            "reviewer": "N/A",
+            "title": "Best flannelette sheets around. Warm"
+        },
+        {
+            "body": "Home",
+            "rating": 8,
+            "reviewer": "N/A",
+            "title": ""
+        },
+        {
+            "body": " HOW BHUMI PRODUCTS ARE MADE We are committed to providing contemporary designs with the best possible cotton fabric available anywhere in the world. So, we only ever use 100% certified organic cotton. Not only does organic cotton have a low environmental impact, but also it is also soft, gentle and durable than standard cotton making it a natural choice for all our products. LEARN MORE ",
+            "rating": "N/A",
+            "reviewer": "N/A",
+            "title": "N/A"
+        },
+        {
+            "body": " We take a lot of pride in offering you quality products that are ethically made from certified organic cotton. However, for some reason if you are not 100% satisfied with your purchase, or require a different sizing or colour option, you can submit a return within 30 days of receiving the goods here - Returns & Exchanges ",
+            "rating": "N/A",
+            "reviewer": "N/A",
+            "title": "\n\n                          RETURNS & EXCHANGES\n                        \n"
+        },
+        {
+            "body": "Using age old traditional farming practices we use Neem as an organic pest and fungal control for our crops instead of toxic insecticides or pesticides.",
+            "rating": "N/A",
+            "reviewer": "N/A",
+            "title": " Neem "
+        },
+        {
+            "body": " Colour: Bronze Green Plaid ",
+            "rating": 8,
+            "reviewer": "N/A",
+            "title": "\n\n                  Flannelette Sheet Set - Plaid\n                \n\n\n                    Flannelette Sheet Set - Plaid\n                  \n\n\n\n\n\n\n\n\nAdd to wishlist\n"
+        },
+        {
+            "body": "We start at the source: our cotton seeds are organic, not GMOs, and our farm partners rely exclusively on non-toxic resources to qualify as 100% organic.",
+            "rating": "N/A",
+            "reviewer": "N/A",
+            "title": " Organic Cotton "
+        },
+        {
+            "body": " Not only does organic cotton have a low environmental impact, but it is also softer and more gentle and durable than standard cotton making it a natural choice for all our products. Choosing organic cotton brings the intrinsic beauty of nature into your home without the presence of any nasties (toxic chemicals, GMO, etc.) and allows you to enjoy the purest form of cotton as nature intended it to be ...and knowing it was ethically made in adherence to the strictest environmental standards. ",
+            "rating": "N/A",
+            "reviewer": "N/A",
+            "title": "\nWHAT ARE THE BENEFITS OF CHOOSING CERTIFIED ORGANIC COTTON?\n\n\n\n"
+        },
+        {
+            "body": " SUSTAINABLE DESIGNS In our mission to cut out plastic and avoid textile waste going to landfill, this product comes in a reusable bag made of matching organic fabric offcuts. LEARN MORE ",
+            "rating": "N/A",
+            "reviewer": "N/A",
+            "title": "N/A"
+        },
+        {
+            "body": " SUSTAINABLE DESIGNS In our mission to cut out plastic and avoid textile waste going to landfill, this product comes in a reusable bag made of matching organic fabric offcuts. LEARN MORE ",
+            "rating": "N/A",
+            "reviewer": "N/A",
+            "title": "N/A"
+        },
+        {
+            "body": " Currently Bhumi sources all of its organic cotton from India (and organic Linen from Belgium). India has one of the longest and respected textile traditions in the world, which means it provides us access to some of the highest quality production facilities in the world that comply with Global Organic Textile Standard (GOTS) and Soil Association requirements. ",
+            "rating": "N/A",
+            "reviewer": "N/A",
+            "title": "\nWHERE DOES BHUMI SOURCE ORGANIC COTTON FROM?\n\n\n\n"
+        },
+        {
+            "body": "We are committed to providing contemporary designs with the best possible cotton fabric available anywhere in the world. So, we only ever use 100% certified organic cotton. Not only does organic cotton have a low environmental impact, but also it is also soft, gentle and durable than standard cotton making it a natural choice for all our products.",
+            "rating": "N/A",
+            "reviewer": "N/A",
+            "title": "N/A"
+        },
+        {
+            "body": " Our Organic Flannelette Bedding is pre-washed for you to use immediately but as it is fluffy in nature and may lint, we recommend washing first before usingIt may take a few wash and sleeps for the flannelette to reach its ultimate settled state, trust us you will love it when it doesWash in cold water on a gentle cycle with plant based detergents and no bleaching agentsWash colours separatelyShake well before line drying to release any loose fibres or ballingAvoid direct sunlight as this can cause the colour to fadeDo not tumble dry as the heat can damage the fabricOur organic flannelette is so soft creases will not show but if they do they will soften with your body warmth. If you must, iron inside out on warm settingMake sure it is fully dry before storing away or putting back on the bed ",
+            "rating": "N/A",
+            "reviewer": "N/A",
+            "title": "\n\n                          HOW TO CARE\n                        \n"
+        }
+    ],
+    "reviews_count": 22
+}
